@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mini-project-quiz/static/css/main.b555a088.css",
+    "main.js": "/react-mini-project-quiz/static/js/main.26ea188b.js",
+    "index.html": "/react-mini-project-quiz/index.html",
+    "main.b555a088.css.map": "/react-mini-project-quiz/static/css/main.b555a088.css.map",
+    "main.26ea188b.js.map": "/react-mini-project-quiz/static/js/main.26ea188b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b555a088.css",
+    "static/js/main.26ea188b.js"
+  ]
+}
