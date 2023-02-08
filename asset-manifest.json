@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-mini-project-quiz/static/css/main.b555a088.css",
-    "main.js": "/react-mini-project-quiz/static/js/main.26ea188b.js",
+    "main.js": "/react-mini-project-quiz/static/js/main.83709ecf.js",
     "index.html": "/react-mini-project-quiz/index.html",
     "main.b555a088.css.map": "/react-mini-project-quiz/static/css/main.b555a088.css.map",
-    "main.26ea188b.js.map": "/react-mini-project-quiz/static/js/main.26ea188b.js.map"
+    "main.83709ecf.js.map": "/react-mini-project-quiz/static/js/main.83709ecf.js.map"
   },
   "entrypoints": [
     "static/css/main.b555a088.css",
-    "static/js/main.26ea188b.js"
+    "static/js/main.83709ecf.js"
   ]
 }
